@@ -18,5 +18,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "description": "Ce repo contient le code de l'API dont vous aurez besoin pour le cours OpenClassrooms ------. Il va de paire avec [le repository de la partie frontend](https://github.com/OpenClassrooms-Student-Center/7150606-React-intermediaire.git).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire/issues"
+  },
+  "homepage": "https://github.com/OpenClassrooms-Student-Center/7150606-API-React-intermediaire#readme"
 }
